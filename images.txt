@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+xprobe/xinference:v1.9.1-cuda12.1
