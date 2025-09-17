@@ -1,1 +1,1 @@
-xprobe/xinference:v1.9.1-cuda12.1
+vllm/vllm-openai:v0.5.3
